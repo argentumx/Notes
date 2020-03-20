@@ -14,7 +14,7 @@ Tags: Algoritmos / EDD
 
 ## Algoritmo simple - loop & array de largo al azar (C++):
 
-![Decimal%20to%20Binary/Captura_de_pantalla_2020-03-19_a_la(s)_23.00.58.png](Decimal%20to%20Binary/Captura_de_pantalla_2020-03-19_a_la(s)_23.00.58.png)
+![pic/Decimal%to%Binary/Captura_de_pantalla_2020-03-19_a_la(s)_23.00.58.png](Decimal%20to%20Binary/Captura_de_pantalla_2020-03-19_a_la(s)_23.00.58.png)
 
 Para pasar el decimal a binario se implementa una división de decimal original de modo que:
 
