@@ -12,7 +12,7 @@ O una tupla:
 print( (b, a) [a < b] )
 ```
 
-La manera mas eficiente es expresion lambda, dado que la expresion se evalua solo una vez, en vez de 2, como en caso de tupla o diccionario:
+La manera más eficiente es usar una expresión lambda, dado que la expresión condicional se evalua solo una vez, en vez de 2, como en caso de la tupla o el diccionario:
 
     
 ```python
