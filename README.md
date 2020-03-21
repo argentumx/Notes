@@ -1,10 +1,21 @@
 # Notes
 Notes and code snippets collected during self-study sessions.
 
-## Prorgramming
-
 ### Competiitve Programming
 - [Algorithms](https://github.com/argentumx/Notes/blob/master/docs/algorithms.md)
+- [Data Structures](https://github.com/argentumx/Notes/blob/master/docs/data_structures.md)
+
+## Tools
+### Languages
+#### Python
+  - [Python]()
+##### Modules
+##### Frameworks
+#### C++
+  - [C++]()
+##### Modules
+##### Frameworks
+  
 
 ## Web
 
@@ -12,6 +23,6 @@ Notes and code snippets collected during self-study sessions.
 
 ### Back End
 
-### Mobile Development
+## Mobile Development
 
 ## DevOps
