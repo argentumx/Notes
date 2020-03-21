@@ -6,7 +6,7 @@ condition : true-value ? false-value;
 ```
 
 ### Switch
-En C++, no se permite uso de `cpp float` en `cpp switch` como `cpp switch(valor de un flotante)` dada su imprecisión. `switch` se puede usar solo con valores enteros.
+En C++, no se permite uso de float` en `switch` como `switch(valor de un flotante)` dada su imprecisión. `switch` se puede usar solo con valores enteros.
 
 ## Modulo %
 Operador de módulo `%` no se puede usar con números, que no sean enteros. O sea, `double % double`  o ` int % double` es un uso incorrecto. 
@@ -24,7 +24,7 @@ Si los parentesis se dejan vacios, se ignora el input hasta EOF. De otro manera,
 
 > As another example, consider:
 
-```C++
+```cpp
 cin.ignore(4,’g’);
 cin.get(c);
 cout << c << endl;
@@ -46,7 +46,8 @@ Sea input de forma:
 - flotante salario \n
 - flotante ventas por mes (15% de bonus al salario) \n
 
-Con 
+Con
+
 ```cpp
 cin.ignore(numeric_limits<streamsize>::max(), '\n');
 ``` 
