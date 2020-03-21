@@ -44,6 +44,21 @@ cin >> a >> b >> c;
 ### Ignorar el input
 Para ignorar input en python (hasta `\n`), se puede recibirlo con `input()`, pero no asignarlo a ninguna variable.
 
+### Particularidades de función `print()` en manejo de espacios
+
+En Python, los `print()` agregan un espacio extra entre los componentes, de modo que :
+
+```python
+print("MODA =", 10)
+```
+es `MODA = 10` y no `MODA =10`
+
+Nota: En comparacion, C++ no agrega un espacio extra, por lo que siempe es necesario agregarlo manualmente:
+
+```C++
+cout << var1 << "\n";
+```
+
 
 ***
 ## Diccionarios
@@ -61,19 +76,4 @@ Crea un diccionaro `precios` de la forma:
 `{1: 4.00, 2: 4.50, 3: 5.00, 4: 2.00, 5: 1.50}`
 
 
-***
-### Particularidades de función `print()` en manejo de espacios
-
-En Python, los `print()` agregan un espacio extra entre los componentes, de modo que :
-
-```python
-print("MODA =", 10)
-```
-es `MODA = 10` y no `MODA =10`
-
-Nota: En comparacion, C++ no agrega un espacio extra, por lo que siempe es necesario agregarlo manualmente:
-
-```C++
-cout << var1 << "\n";
-```
 
