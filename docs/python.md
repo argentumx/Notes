@@ -1,5 +1,6 @@
     
 ***
+## Operadores
 ### Ternary
 Usando un diccionario:
 
