@@ -1,6 +1,8 @@
+**Table of Contents:**
+    
 ***
-### Ternary
 
+### Ternary
 Usando un diccionario:
 
 ```python 
