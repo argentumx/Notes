@@ -8,10 +8,15 @@ Notes and code snippets collected during self-study sessions.
 ## Tools
 ### Languages
 #### Python
-  - [Python]()
+  - [Python](https://github.com/argentumx/Notes/blob/master/docs/python.md)
+##### Modules
+##### Frameworks
 #### C++
-  - [C++]()
+  - [C++](https://github.com/argentumx/Notes/blob/master/docs/c++.md)
+##### Modules
+##### Frameworks
   
+
 ## Web
 
 ### Front End
