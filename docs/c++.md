@@ -11,7 +11,7 @@ En C++, no se permite uso de `floats` en `switch` como `switch(valor de un flota
 ## Modulo %
 Operador de módulo `%` no se puede usar con números, que no sean enteros. O sea, `double % double`  o ` int % double` es un uso incorrecto. 
 
-Para obtener parte entera de un número en C++ se puede usar `C++ floor()`. Así, la parte decimal de un double será 
+Para obtener parte entera de un número en C++ se puede usar `floor()`. Así, la parte decimal de un double será 
 `decimal = N - floor(N)`
 
 ***
