@@ -1,4 +1,3 @@
-**Table of Contents:**
     
 ***
 
@@ -9,7 +8,7 @@ Usando un diccionario:
 print({True: a, False: b} [a < b])
 ```
 
-O una tupla:
+Usando una tupla:
 
 ```python
 print( (b, a) [a < b] )
