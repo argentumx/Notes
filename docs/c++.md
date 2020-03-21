@@ -4,6 +4,10 @@
 ```C++ 
 condition : true-value ? false-value;
 ```
+
+### Switch
+En C++, no se permite uso de `floats` en `switch` como `switch(valor de un flotante)` dada su imprecisión. `switch` se puede usar solo con valores enteros.
+
 ***
 ## I/O
 ### Ignorar el input
