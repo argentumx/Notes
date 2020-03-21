@@ -1,8 +1,10 @@
+***
 ## Operators
 ### Ternary
 ```C++ 
 condition : true-value ? false-value;
 ```
+***
 ## I/O
 ### Ignorar el input
 
