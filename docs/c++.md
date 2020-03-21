@@ -1,7 +1,7 @@
 ***
 ## Operators
 ### Ternary
-```C++ 
+```cpp 
 condition : true-value ? false-value;
 ```
 
