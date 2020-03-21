@@ -44,10 +44,11 @@ cin >> a >> b >> c;
 ***
 ### Ignorar el input
 Para ignorar input en python (hasta `\n`), se puede recibirlo con `input()`, pero no asignarlo a ninguna variable.
-***
+---
 
-## Diccionarios
 ***
+## Diccionarios
+---
 ### Uso de `zip()` y la clave entera
 
 En Python es posible crear un diccionario, usando `zip()`:
@@ -59,8 +60,9 @@ precios = dict(zip(range(1, 6), [4.00, 4.50, 5.00, 2.00, 1.50]))
 Crea un diccionaro `precios` de la forma:
 
 `{1: 4.00, 2: 4.50, 3: 5.00, 4: 2.00, 5: 1.50}`
-***
+---
 
+***
 ### Particularidades de función `print()` en manejo de espacios
 
 En Python, los `print()` agregan un espacio extra entre los componentes, de modo que :
@@ -75,3 +77,4 @@ Nota: En comparacion, C++ no agrega un espacio extra, por lo que siempe es neces
 ```C++
 cout << var1 << "\n";
 ```
+---
