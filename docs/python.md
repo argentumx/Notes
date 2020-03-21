@@ -1,3 +1,4 @@
+***
 ### Ternary
 
 Usando un diccionario:
@@ -18,3 +19,4 @@ La manera más eficiente es usar una expresión lambda, dado que la expresión c
 ```python
 print((lambda: b, lambda: a)[a < b]())
 ```
+***
