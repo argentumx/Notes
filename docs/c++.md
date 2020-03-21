@@ -3,7 +3,7 @@
 
 Para ignorar el input en C++, se usa `cin.ignore()`.
 
-Si los parentesis se dejan vacios, se ignora input hasta EOF. De otro modo, se puede pasar dos parametros `cin.ignore(int numero_de_caracteres, char delimitador)` para ignorar los N caracteres hasta un caracter específico.
+Si los parentesis se dejan vacios, se ignora el input hasta EOF. De otro manera, se puede pasar dos parametros `cin.ignore(int numero_de_caracteres, char delimitador)` para ignorar los N caracteres hasta un caracter específico.
 
 > As another example, consider:
 
