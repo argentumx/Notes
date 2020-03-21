@@ -41,3 +41,7 @@ Nota: En C++, en cambio, basta con cin:
 double a, b, c;
 cin >> a >> b >> c;
 ```
+***
+### Ignorar el input
+Para ignorar input en python (hasta `\n`), se puede recibirlo con `input()`, pero no asignarlo a ninguna variable.
+***
