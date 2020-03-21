@@ -6,7 +6,7 @@ condition : true-value ? false-value;
 ```
 
 ### Switch
-En C++, no se permite uso de `floats` en `switch` como `switch(valor de un flotante)` dada su imprecisión. `switch` se puede usar solo con valores enteros.
+En C++, no se permite uso de `cpp float` en `cpp switch` como `cpp switch(valor de un flotante)` dada su imprecisión. `switch` se puede usar solo con valores enteros.
 
 ## Modulo %
 Operador de módulo `%` no se puede usar con números, que no sean enteros. O sea, `double % double`  o ` int % double` es un uso incorrecto. 
@@ -33,7 +33,7 @@ cout << c << endl;
 
 Para ignorar el input de largo variable hasta un cierto caracter, se puede usar:
 
-```C++
+```cpp
 cin.ignore(numeric_limits<streamsize>::max(), '\n');
 ```
 
@@ -47,11 +47,11 @@ Sea input de forma:
 - flotante ventas por mes (15% de bonus al salario) \n
 
 Con 
-```C++
+```cpp
 cin.ignore(numeric_limits<streamsize>::max(), '\n');
 ``` 
 podemos ignorar esl nombre, sea este de largo 0 a 99999 o millon, ahorrando la memoria.
-```
+```cpp
     >joan
     >500.41
     >100
