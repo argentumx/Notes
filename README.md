@@ -11,7 +11,7 @@ Notes and code snippets collected during self-study sessions.
   - [C++](https://github.com/argentumx/Notes/blob/master/docs/c++.md)
   - [Java]()
   - [R]()
-  - [JavaScript]
+  - [JavaScript]()
   
 
 ## Web
