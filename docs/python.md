@@ -45,3 +45,18 @@ cin >> a >> b >> c;
 ### Ignorar el input
 Para ignorar input en python (hasta `\n`), se puede recibirlo con `input()`, pero no asignarlo a ninguna variable.
 ***
+
+## Diccionarios
+***
+### Uso de `zip()` y la clave entera
+
+En Python es posible crear un diccionario, usando `zip()`:
+
+```python
+precios = dict(zip(range(1, 6), [4.00, 4.50, 5.00, 2.00, 1.50]))
+```
+
+Crea un diccionaro `precios` de la forma:
+
+`{1: 4.00, 2: 4.50, 3: 5.00, 4: 2.00, 5: 1.50}`
+***
