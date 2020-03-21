@@ -22,7 +22,7 @@ print((lambda: b, lambda: a)[a < b]())
 ```
 ***
 ## I/O
-### Uso de map() en input
+### Uso de `map()` en input
 En Python, para recibir input de tipo
 
 ```
