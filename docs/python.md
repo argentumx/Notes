@@ -1,4 +1,12 @@
-    
+- [Operadores](#operadores)
+  * [Ternary](#ternary)
+- [I/O](#i-o)
+  * [Uso de `map()` en input](#uso-de--map----en-input)
+  * [Ignorar el input](#ignorar-el-input)
+  * [Particularidades de función `print()` en manejo de espacios](#particularidades-de-funci-n--print----en-manejo-de-espacios)
+- [Diccionarios](#diccionarios)
+  * [Uso de `zip()` y la clave entera](#uso-de--zip----y-la-clave-entera)
+  
 ***
 ## Operadores
 ### Ternary
