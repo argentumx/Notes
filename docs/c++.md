@@ -1,3 +1,10 @@
+- [Operators](#operators)
+  * [Ternary](#ternary)
+  * [Switch](#switch)
+- [Modulo %](#modulo--)
+- [I/O](#i-o)
+  * [Ignorar el input](#ignorar-el-input)
+  
 ***
 ## Operators
 ### Ternary
