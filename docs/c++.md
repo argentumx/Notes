@@ -13,7 +13,7 @@ condition : true-value ? false-value;
 ```
 
 ### Switch
-En C++, no se permite uso de float` en `switch` como `switch(valor de un flotante)` dada su imprecisión. `switch` se puede usar solo con valores enteros.
+En C++, no se permite uso de `float` en `switch` como `switch(valor de un flotante)` dada su imprecisión. `switch` se puede usar solo con valores enteros.
 
 ### Modulo
 Operador de módulo `%` no se puede usar con números, que no sean enteros. O sea, `double % double`  o ` int % double` es un uso incorrecto. 
